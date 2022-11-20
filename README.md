@@ -1,12 +1,6 @@
-# Menú online Blue 42 Resto bar
+# Menú online Enlik Dimash
 
-#### Escanea el código QR
-
-![Menú online Blue 42 Resto bar](./src/assets/QR/Blue_42_resto_bar_San_Juan_QR.svg "Menú online Blue 42 Resto bar")
-
-#### Deploy
-https://menu-blue-42-resto-bar.pages.dev/
-------
+![Menú online](./src/assets/QR/Blue_42_resto_bar_San_Juan_QR.png "Menú online Enlik Dimash")
 
 # Getting Started with Create React App
 
